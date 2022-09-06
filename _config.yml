@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home Page - Qian Liu"
+title                    : "Home Page - Daoguang Zan"
 title_separator          : " "
-name                     : &name "Qian Liu"
-description              : &description "Ph.D. Candidate in Beihang University"
-url                      : https://siviltaram.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Daoguang Zan"
+description              : &description "Ph.D. Candidate in Institute of Software Chinese Academy of Sciences (ISCAS)"
+url                      : https://zandaoguang-iscas.github.io/daoguang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qian Liu"
-  avatar           : "profile.png"
-  bio              : "Joint Ph.D. in Beihang University & Microsoft Research Asia"
+  name             : "Daoguang Zan"
+  avatar           : "aguang.jpeg"
+  bio              : "Ph.D. in Institute of Software Chinese Academy of Sciences (ISCAS)"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=bcbeUo0AAAAJ"
-  email            : "qian dot liu at buaa.edu.cn"
+  googlescholar    : # "https://scholar.google.com/citations?user=bcbeUo0AAAAJ"
+  email            : "daoguang at iscas.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SivilTaram"
+  github           : "zandaoguang-iscas"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "siviltaram"
+  linkedin         : # "siviltaram"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sivil_taram"
+  twitter          : # "sivil_taram"
   vine             :
   weibo            :
   xing             :
