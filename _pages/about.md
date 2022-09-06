@@ -20,4 +20,4 @@ In the past few years, my reserach interest focuses on **code generation** and *
 
 Please feel free to contact me via my email (daoguang@iscas.ac.cn) or my wechat (872561826) if you are interested in our papers, my experience, or you just have any problem on research which I may help.
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=ttkJZYV_JYWsZaLTPSNNB_KpBVL7-FpSVOfSmz5CsC8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dnij2SJ9S8NTO3TzMZaNuYqRPrmAtMFxxo4asUQnBM8&cl=ffffff&w=a"></script>
