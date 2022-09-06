@@ -26,7 +26,7 @@ redirect_from:
 
 * 2020.8 - 2021.8: **Meituan (美团)**
   * Development Intern *NLP* Group
-  * Mentor: [Sirui Wang]([https://www.linkedin.com/in/xinzou](https://www.researchgate.net/profile/Sirui-Wang-26))
+  * Mentor: [Sirui Wang](https://www.researchgate.net/profile/Sirui-Wang-26)
 
 ## <i class="fa fa-ft fa-cogs"></i>&nbsp;&nbsp;Skills
 
