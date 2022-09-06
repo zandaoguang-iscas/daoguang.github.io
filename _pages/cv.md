@@ -22,7 +22,7 @@ redirect_from:
 
 * 2021.8 - 2022.11: **Microsoft Research Asia (微软亚洲研究院)**
   * Research Intern at *Data, Knowledge and Intelligence (DKI)* Group
-  * Mentor: [Jian-Guang Lou](https://www.microsoft.com/en-us/research/people/jlou/) & [Bei Chen](https://www.microsoft.com/en-us/research/people/beichen/)
+  * Mentor: [Bei Chen](https://www.microsoft.com/en-us/research/people/beichen/) & [Jian-Guang Lou](https://www.microsoft.com/en-us/research/people/jlou/)
 
 * 2020.8 - 2021.8: **Meituan (美团)**
   * Development Intern *Natural Language Processing (NLP)* Group
