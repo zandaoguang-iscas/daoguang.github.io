@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "<img src=\"/images/aboutme-logo.png\" style=\"display: block;height:2em;vertical-align: middle;margin-left: auto;margin-right: auto;\">"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 Glad to see you here. My name is Daoguang Zan (昝道广), currently a Ph.D. in Institute of Software Chinese Academy of Sciences (ISCAS). My Ph.D. advisor is **Yongji Wang**..
 
 ## <i class="fas fa-graduation-cap"></i>&nbsp;&nbsp;Doing Research
