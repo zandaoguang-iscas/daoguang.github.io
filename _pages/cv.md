@@ -18,7 +18,7 @@ redirect_from:
 
 * 2022.11 - Present: **Tencent (腾讯)**
   * Research Intern at *TEG - AI Lab* Group
-  * Mentor: [Kaiqiang Song]([https://www.microsoft.com/en-us/research/people/jlou/](https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=zh-CN&oi=ao)) & [Xinting Huang](https://scholar.google.com/citations?user=QmyPDWQAAAAJ&hl=zh-CN&oi=ao) & [Xiaoyang Wang](https://scholar.google.com/citations?user=EeppWmkAAAAJ&hl=zh-CN&oi=ao) & [Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=zh-CN&oi=ao) 
+  * Mentor: [Kaiqiang Song](https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=zh-CN&oi=ao) & [Xinting Huang](https://scholar.google.com/citations?user=QmyPDWQAAAAJ&hl=zh-CN&oi=ao) & [Xiaoyang Wang](https://scholar.google.com/citations?user=EeppWmkAAAAJ&hl=zh-CN&oi=ao) & [Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=zh-CN&oi=ao) 
 
 * 2021.8 - 2022.11: **Microsoft Research Asia (微软亚洲研究院)**
   * Research Intern at *Data, Knowledge and Intelligence (DKI)* Group
