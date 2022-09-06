@@ -14,7 +14,7 @@ Glad to see you here. My name is Daoguang Zan (昝道广), currently a Ph.D. in 
 
 In the past few years, my reserach interest focuses on **code generation** and **pretrained language model (PLM)**:
 * Code Generation: focusing on techniques to improve the performance of generating code.
-* pretrained language model: aiming to design the pretraining objectives and pre-train a useful PLM on variety of downstream tasks. 
+* Pretrained Language Model (PLM): aiming to design the pretraining objectives and pre-train a useful PLM on variety of downstream tasks. 
 
 ## <i class="fa fa-ft fa-anchor"></i>&nbsp;&nbsp;Contact Me
 
