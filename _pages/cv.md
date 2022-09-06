@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<i class=\"fa fa-ft fa-id-card\"></i>&nbsp;&nbsp;Curriculum Vitae"
+title: "<i class=\"fa fa-ft fa-id-card\"></i>&nbsp;&nbsp;My Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
