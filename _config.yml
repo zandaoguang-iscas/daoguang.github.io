@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome!"
+title                    : "Home Page - Daoguang"
 title_separator          : " "
 name                     : &name "Daoguang Zan"
 description              : &description "Ph.D. Candidate in Institute of Software Chinese Academy of Sciences (ISCAS)"
