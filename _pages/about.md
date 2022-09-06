@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction" style=\"display: block;height:2em;vertical-align: middle;margin-left: auto;margin-right: auto;\">"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
