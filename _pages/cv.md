@@ -30,8 +30,9 @@ redirect_from:
 
 ## <i class="fa fa-ft fa-cogs"></i>&nbsp;&nbsp;Skills
 
-* **Programming Languages**: Python > Java > JavaScript > HTML/CSS = C++
-* **Deep Learning Tools**:  PyTorch = Transformers > FairSeq > AllenNLP > Tensorflow
+* **Programming Languages**: Python > Java = Shell > JavaScript > HTML/CSS > C = C++
+* **Deep Learning Tools**:  PyTorch = Transformers > FairSeq > AllenNLP
+* **Other Tools**: Pandas = Numpy > Matplotlib = Seaborn > and so on
 
 ## <i class="fa fa-ft fa-book"></i>&nbsp;&nbsp;Publications
 
