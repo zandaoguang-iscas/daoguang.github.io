@@ -9,8 +9,6 @@ redirect_from:
 
 ---
 
-\[[CV (PDF)](/files/Curriculum_Vitae.pdf)\]
-
 ## <i class="fa fa-ft fa-university"></i>&nbsp;&nbsp;Education
 
 * B.S. in Beihang University, 2013.9 - 2017.6
