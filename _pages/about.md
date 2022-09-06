@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: <i class="fa fa-ft fa-users"></i>&nbsp;&nbsp;"About Me"
+title: "<i class=\"fa fa-ft fa-id-card\"></i>&nbsp;&nbsp;Curriculum Vitae"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
