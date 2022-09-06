@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<img src=\"/images/aboutme-logo.png\" style=\"display: block;height:2em;vertical-align: middle;margin-left: auto;margin-right: auto;\">"
+title: "" style=\"display: block;height:2em;vertical-align: middle;margin-left: auto;margin-right: auto;\">"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
