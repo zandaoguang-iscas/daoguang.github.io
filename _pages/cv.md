@@ -25,7 +25,7 @@ redirect_from:
   * Mentor: [Bei Chen](https://www.microsoft.com/en-us/research/people/beichen/) & [Jian-Guang Lou](https://www.microsoft.com/en-us/research/people/jlou/)
 
 * 2020.8 - 2021.8: **Meituan (美团)**
-  * Research Intern *Natural Language Processing (NLP)* Center
+  * Research Intern at *Natural Language Processing (NLP)* Center
   * Mentor: [Sirui Wang](https://www.researchgate.net/profile/Sirui-Wang-26) & [Fuzheng Zhang](https://scholar.google.com/citations?user=8R0hla4AAAAJ&hl=zh-CN&oi=ao) & [Wei Wu](https://scholar.google.com/citations?user=YtqXSzMAAAAJ&hl=zh-CN&oi=ao) 
 
 ## <i class="fa fa-ft fa-cogs"></i>&nbsp;&nbsp;Skills
