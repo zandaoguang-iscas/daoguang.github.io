@@ -43,6 +43,7 @@ redirect_from:
 * Complex Question Answering over Incomplete Knowledge Graph as N-ary Link Prediction (**1st Author, 2022 IJCNN**)
 * CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation (**1st Author, 2022 IJCAI**)
 * CodeT: Code Generation with Generated Tests (**4st Author, 2022 ArXiv, ready for submission to ICLR 2023**)
+* When Language Model Meets Private Library (**1st Author, 2022 EMNLP Findings**)
 
 ## <i class="fa fa-ft fa-heart"></i>&nbsp;&nbsp;Academic Services
 
