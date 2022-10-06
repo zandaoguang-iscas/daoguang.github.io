@@ -36,14 +36,15 @@ redirect_from:
 
 ## <i class="fa fa-ft fa-book"></i>&nbsp;&nbsp;Publications
 
-* 一种不依赖用户行为数据的科研文献推送系统 (**3st Author, 2019 文献与数据学报**)
-* 动态迁移实体块信息的跨领域中文实体识别模型 (**5st Author, 2021 软件学报**)
-* Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models (**5st Author, 2021 EMNLP**)
-* SQL: Retrieval Augmented Question Answering over Knowledge Graph (**1st Author, 2022 PAKDD**)
-* Complex Question Answering over Incomplete Knowledge Graph as N-ary Link Prediction (**1st Author, 2022 IJCNN**)
-* CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation (**1st Author, 2022 IJCAI**)
-* CodeT: Code Generation with Generated Tests (**4st Author, 2022 ArXiv, ready for submission to ICLR 2023**)
-* When Language Model Meets Private Library (**1st Author, 2022 EMNLP Findings**)
+* 一种不依赖用户行为数据的科研文献推送系统 # **3st Author, 2019 文献与数据学报**
+* 动态迁移实体块信息的跨领域中文实体识别模型 # **5st Author, 2021 软件学报**
+* Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models # **5st Author, 2021 EMNLP (Short Paper)**
+* SQL: Retrieval Augmented Question Answering over Knowledge Graph # **1st Author, 2022 PAKDD (Long Paper - Oral)**
+* Complex Question Answering over Incomplete Knowledge Graph as N-ary Link Prediction # **1st Author, 2022 IJCNN (Long Paper - Oral)**
+* CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation # **1st Author, 2022 IJCAI (Long Paper - Poster)**
+* CodeT: Code Generation with Generated Tests # **4st Author, 2022 ArXiv, ready for submission to ICLR 2023**
+* When Language Model Meets Private Library # **1st Author, 2022 EMNLP Findings (Long Paper)**
+`
 
 ## <i class="fa fa-ft fa-heart"></i>&nbsp;&nbsp;Academic Services
 
