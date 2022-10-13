@@ -44,7 +44,6 @@ redirect_from:
 * CERT: Continual Pre-Training on Sketches for Library-Oriented Code Generation # **1st Author, 2022 IJCAI (Long Paper - Poster)**
 * CodeT: Code Generation with Generated Tests # **4st Author, 2022 ArXiv, ready for submission to ICLR 2023**
 * When Language Model Meets Private Library # **1st Author, 2022 EMNLP Findings (Long Paper)**
-`
 
 ## <i class="fa fa-ft fa-heart"></i>&nbsp;&nbsp;Academic Services
 
