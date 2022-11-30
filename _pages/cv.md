@@ -16,9 +16,9 @@ redirect_from:
 
 ## <i class="fa fa-ft fa-users"></i>&nbsp;&nbsp;Experience
 
-* 2022.12 - Unknow: **Tencent (腾讯)** (Expected)
+<!-- * 2022.12 - Unknow: **Tencent (腾讯)** (Expected)
   * Research Intern at [*Technology Engineering Group (TEG) - AI Lab* Group](https://ai.tencent.com/ailab/zh/index)
-  * Mentor: [Kaiqiang Song](https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=zh-CN&oi=ao) & [Xinting Huang](https://scholar.google.com/citations?user=QmyPDWQAAAAJ&hl=zh-CN&oi=ao) & [Xiaoyang Wang](https://scholar.google.com/citations?user=EeppWmkAAAAJ&hl=zh-CN&oi=ao) & [Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=zh-CN&oi=ao) 
+  * Mentor: [Kaiqiang Song](https://scholar.google.com/citations?user=PHoJwakAAAAJ&hl=zh-CN&oi=ao) & [Xinting Huang](https://scholar.google.com/citations?user=QmyPDWQAAAAJ&hl=zh-CN&oi=ao) & [Xiaoyang Wang](https://scholar.google.com/citations?user=EeppWmkAAAAJ&hl=zh-CN&oi=ao) & [Duyu Tang](https://scholar.google.com/citations?user=9uz-D-kAAAAJ&hl=zh-CN&oi=ao)  -->
 
 * 2021.8 - Present: **Microsoft Research Asia (微软亚洲研究院)**
   * Research Intern at *Data, Knowledge and Intelligence (DKI)* Group
